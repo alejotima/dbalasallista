@@ -1,1 +1,1 @@
-# dbalasallista
+# Curso de administración de bases de datos
